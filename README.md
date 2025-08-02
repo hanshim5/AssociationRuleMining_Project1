@@ -3,3 +3,6 @@ This project applies the Apriori Algorithm to the Diabetes Health Indicators Dat
 The main objective of this project is to discover frequent itemsets and association rules from the dataset to explore relationships between risk factors like High Blood Pressure, High Cholesterol, and Heart Disease.
 
 By using the Apriori algorithm for association rule mining, we were able to find relationships between various health conditions and behaviors.
+
+For more information:
+[https://docs.google.com/presentation/d/1zukkimrVZbsHprPmyg5LwnGCTeLrhkGJ5Ac8yUX9kAE/edit?usp=sharing]
